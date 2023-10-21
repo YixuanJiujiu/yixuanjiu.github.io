@@ -63,19 +63,6 @@ img {
   border-radius: 5px;
 }
 
-/* image container */
-.row {
-  display: flex;
-  max-width: 100%;
-  border-radius: 5px;
-}
-
-.column {
-  flex: 25%;
-  padding: 5px;
-  height: auto;
-}
-
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
@@ -96,6 +83,19 @@ hr {
   margin-left: auto;
   margin-right: auto;
   width: 615px;
+}
+
+/* image container */
+.row {
+  display: flex;
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.column {
+  flex: 25%;
+  padding: 5px;
+  height: auto;
 }
 
 /*48em*/
